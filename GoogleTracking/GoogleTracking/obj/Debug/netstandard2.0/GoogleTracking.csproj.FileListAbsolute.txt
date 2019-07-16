@@ -1,0 +1,12 @@
+C:\Xamarin Projects\GoogleTracking\GoogleTracking\GoogleTracking\bin\Debug\netstandard2.0\GoogleTracking.deps.json
+C:\Xamarin Projects\GoogleTracking\GoogleTracking\GoogleTracking\bin\Debug\netstandard2.0\GoogleTracking.dll
+C:\Xamarin Projects\GoogleTracking\GoogleTracking\GoogleTracking\obj\Debug\netstandard2.0\GoogleTracking.csprojAssemblyReference.cache
+C:\Xamarin Projects\GoogleTracking\GoogleTracking\GoogleTracking\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin Projects\GoogleTracking\GoogleTracking\GoogleTracking\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin Projects\GoogleTracking\GoogleTracking\GoogleTracking\obj\Debug\netstandard2.0\GoogleTracking.csproj.CoreCompileInputs.cache
+C:\Xamarin Projects\GoogleTracking\GoogleTracking\GoogleTracking\obj\Debug\netstandard2.0\GoogleTracking.AssemblyInfoInputs.cache
+C:\Xamarin Projects\GoogleTracking\GoogleTracking\GoogleTracking\obj\Debug\netstandard2.0\GoogleTracking.AssemblyInfo.cs
+C:\Xamarin Projects\GoogleTracking\GoogleTracking\GoogleTracking\obj\Debug\netstandard2.0\GoogleTracking.dll
+C:\Xamarin Projects\GoogleTracking\GoogleTracking\GoogleTracking\obj\Debug\netstandard2.0\GoogleTracking.pdb
+C:\Xamarin Projects\GoogleTracking\GoogleTracking\GoogleTracking\bin\Debug\netstandard2.0\GoogleTracking.pdb
+C:\Xamarin Projects\GoogleTracking\GoogleTracking\GoogleTracking\obj\Debug\netstandard2.0\XamlC.stamp

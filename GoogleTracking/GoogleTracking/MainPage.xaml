@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:GoogleTracking"
+             x:Class="GoogleTracking.MainPage">
+
+    <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Latitude: "/>
+            <Label x:Name="labelLatitude" WidthRequest="200"/>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Longitude: "/>
+            <Label x:Name="labelLongitude" WidthRequest="200"/>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Button x:Name="btnLocate" Text="Get Coordinates" Clicked="Locate_Clicked"/>
+            <Button x:Name="btnOpen" Text="View in Google Map" Clicked="Open_Clicked"/>
+        </StackLayout>
+
+        <Label x:Name="labelLink"/>
+    </StackLayout>
+
+</ContentPage>
